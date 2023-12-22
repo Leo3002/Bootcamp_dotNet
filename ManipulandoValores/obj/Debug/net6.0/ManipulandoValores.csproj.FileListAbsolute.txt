@@ -1,0 +1,15 @@
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\bin\Debug\net6.0\ManipulandoValores.exe
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\bin\Debug\net6.0\ManipulandoValores.deps.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\bin\Debug\net6.0\ManipulandoValores.runtimeconfig.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\bin\Debug\net6.0\ManipulandoValores.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\bin\Debug\net6.0\ManipulandoValores.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ManipulandoValores.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ManipulandoValores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ManipulandoValores.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ManipulandoValores.AssemblyInfo.cs
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ManipulandoValores.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ManipulandoValores.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\refint\ManipulandoValores.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ManipulandoValores.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ManipulandoValores.genruntimeconfig.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ManipulandoValores\obj\Debug\net6.0\ref\ManipulandoValores.dll

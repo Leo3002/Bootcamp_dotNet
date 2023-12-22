@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/OperadoresAritimeticos/bin/Debug/net6.0/OperadoresAritimeticos.dll",
+            "program": "${workspaceFolder}/ArrayC#/bin/Debug/net6.0/ArrayC#.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/OperadoresAritimeticos",
+            "cwd": "${workspaceFolder}/ArrayC#",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

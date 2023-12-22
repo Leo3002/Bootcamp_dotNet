@@ -1,11 +1,11 @@
 ﻿
-//Abaixo somente para FOR
+/*Abaixo somente para FOR*/
 // int numero = 5;
 // // for(int contador = 0; contador <= 10; contador++){
 // // Console.WriteLine($"{numero} x {contador} = {numero * contador}");
 // // }
 
-//Abaixo somente para WHILE
+/*Abaixo somente para WHILE*/
 
 // int contador = 1;
 // int numero = 5;
@@ -21,7 +21,7 @@
 // }
 
 
-//Abaixo somente para DO WHILE
+/*Abaixo somente para DO WHILE*/
 // int soma = 0, numero = 0;
 // do
 // {
@@ -33,9 +33,7 @@
 // }while(numero != 0);
 
 // Console.WriteLine($"Total de soma dos números digitados é: {soma}");
-
-//Abaixo somente para MENU INTERATIVO
-
+/*Abaixo somente para MENU INTERATIVO*/
 string opcao;
 bool exibirMenu = true;
 

@@ -1,0 +1,15 @@
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\bin\Debug\net6.0\PropriedadesMetodosConstrutores.exe
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\bin\Debug\net6.0\PropriedadesMetodosConstrutores.deps.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\bin\Debug\net6.0\PropriedadesMetodosConstrutores.runtimeconfig.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\bin\Debug\net6.0\PropriedadesMetodosConstrutores.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\bin\Debug\net6.0\PropriedadesMetodosConstrutores.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\PropriedadesMetodosConstrutores.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\PropriedadesMetodosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\PropriedadesMetodosConstrutores.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\PropriedadesMetodosConstrutores.AssemblyInfo.cs
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\PropriedadesMetodosConstrutores.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\PropriedadesMetodosConstrutores.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\refint\PropriedadesMetodosConstrutores.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\PropriedadesMetodosConstrutores.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\PropriedadesMetodosConstrutores.genruntimeconfig.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\PropriedadesMetodosConstrutores\obj\Debug\net6.0\ref\PropriedadesMetodosConstrutores.dll

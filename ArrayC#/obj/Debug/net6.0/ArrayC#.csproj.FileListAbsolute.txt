@@ -1,0 +1,15 @@
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\bin\Debug\net6.0\ArrayC#.exe
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\bin\Debug\net6.0\ArrayC#.deps.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\bin\Debug\net6.0\ArrayC#.runtimeconfig.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\bin\Debug\net6.0\ArrayC#.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\bin\Debug\net6.0\ArrayC#.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ArrayC#.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ArrayC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ArrayC#.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ArrayC#.AssemblyInfo.cs
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ArrayC#.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ArrayC#.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\refint\ArrayC#.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ArrayC#.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ArrayC#.genruntimeconfig.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\ArrayC#\obj\Debug\net6.0\ref\ArrayC#.dll
