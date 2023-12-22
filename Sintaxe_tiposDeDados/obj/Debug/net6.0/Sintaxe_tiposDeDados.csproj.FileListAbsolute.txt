@@ -1,0 +1,15 @@
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\bin\Debug\net6.0\Sintaxe_tiposDeDados.exe
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\bin\Debug\net6.0\Sintaxe_tiposDeDados.deps.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\bin\Debug\net6.0\Sintaxe_tiposDeDados.runtimeconfig.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\bin\Debug\net6.0\Sintaxe_tiposDeDados.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\bin\Debug\net6.0\Sintaxe_tiposDeDados.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\Sintaxe_tiposDeDados.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\Sintaxe_tiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\Sintaxe_tiposDeDados.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\Sintaxe_tiposDeDados.AssemblyInfo.cs
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\Sintaxe_tiposDeDados.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\Sintaxe_tiposDeDados.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\refint\Sintaxe_tiposDeDados.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\Sintaxe_tiposDeDados.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\Sintaxe_tiposDeDados.genruntimeconfig.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\Sintaxe_tiposDeDados\obj\Debug\net6.0\ref\Sintaxe_tiposDeDados.dll
