@@ -1,0 +1,15 @@
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.exe
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.deps.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.runtimeconfig.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\bin\Debug\net6.0\OperadoresAritimeticos.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.AssemblyInfo.cs
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\refint\OperadoresAritimeticos.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\OperadoresAritimeticos.genruntimeconfig.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\OperadoresAritimeticos\obj\Debug\net6.0\ref\OperadoresAritimeticos.dll
