@@ -1,0 +1,15 @@
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\bin\Debug\net6.0\EstruturasDeRepeticao.exe
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\bin\Debug\net6.0\EstruturasDeRepeticao.deps.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\bin\Debug\net6.0\EstruturasDeRepeticao.runtimeconfig.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\bin\Debug\net6.0\EstruturasDeRepeticao.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\bin\Debug\net6.0\EstruturasDeRepeticao.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\EstruturasDeRepeticao.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\EstruturasDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\EstruturasDeRepeticao.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\EstruturasDeRepeticao.AssemblyInfo.cs
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\EstruturasDeRepeticao.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\EstruturasDeRepeticao.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\refint\EstruturasDeRepeticao.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\EstruturasDeRepeticao.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\EstruturasDeRepeticao.genruntimeconfig.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet\EstruturasDeRepeticao\obj\Debug\net6.0\ref\EstruturasDeRepeticao.dll
