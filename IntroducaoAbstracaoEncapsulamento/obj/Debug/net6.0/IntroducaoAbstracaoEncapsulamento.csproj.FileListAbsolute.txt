@@ -1,0 +1,15 @@
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\bin\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.exe
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\bin\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.deps.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\bin\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.runtimeconfig.json
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\bin\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\bin\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.csproj.AssemblyReference.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.AssemblyInfoInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.AssemblyInfo.cs
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.csproj.CoreCompileInputs.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\refint\IntroducaoAbstracaoEncapsulamento.dll
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.pdb
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\IntroducaoAbstracaoEncapsulamento.genruntimeconfig.cache
+D:\Lucas\Projetos\Bootcamp_dotnet\Bootcamp_dotNet-1\IntroducaoAbstracaoEncapsulamento\obj\Debug\net6.0\ref\IntroducaoAbstracaoEncapsulamento.dll
